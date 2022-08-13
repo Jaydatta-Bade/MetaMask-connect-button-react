@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App button{
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin-top: 20%;
+}
